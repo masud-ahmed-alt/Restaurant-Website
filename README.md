@@ -23,3 +23,5 @@ This is restaurent web based application to take order, deliver food, manage emp
 <hr>
 <h2>Now all the API's and instruction will be provided after completion of project.</h2>
 <hr>
+
+<img src="img/start.png" style="width: 500px;">
